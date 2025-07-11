@@ -1,0 +1,49 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 300px; /* Fixed width for the popup */
+    padding: 15px;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 1.4em;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 0.9em;
+    color: #555;
+}
+
+#status {
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #e0f2f1;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #00796b;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1em;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
