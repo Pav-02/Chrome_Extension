@@ -1,5 +1,5 @@
 Company - CodTech IT Solutions, Name - N.C.Pavani, Intern ID - CT06DF2606, Domain - Full Stack, Duration - 6 weeks, Mentor - Neela Santhosh 
-                                              CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYSIS
+                                               CHROME EXTENSION FOR TIME TRACKING AND PRODUCTIVITY ANALYSIS
 
 ## Project Overview
 The Productivity Tracker is a comprehensive solution designed to help users monitor and improve their online productivity. It consists of a Chrome Extension that tracks time spent on various websites and a powerful backend with an analytics dashboard to provide insights into browsing habits. Users can classify websites as productive or unproductive, generating personalized reports and analytics to foster better time management.
@@ -109,6 +109,7 @@ Follow these steps to set up and run the Productivity Tracker locally.
 *   **Dedicated Frontend Framework:** Migrate the dashboard to a modern frontend framework (e.g., React, Vue, Angular) for a richer user experience.
 *   **Deployment:** Deploy the backend and dashboard to a cloud hosting provider.
 ## License
-
 [Optional: Add your chosen license here, e.g., MIT License]
-![WhatsApp Image 2025-07-11 at 13 43 25_efd22a5f](https://github.com/user-attachments/assets/354d6bf6-aa46-46e6-95e5-08aadef9e702)
+![WhatsApp Image 2025-07-11 at 13 59 00_e557283d](https://github.com/user-attachments/assets/3a0d9c02-2f6c-4247-b896-bbc036dfc13d)
+
+
